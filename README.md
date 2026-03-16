@@ -9,6 +9,10 @@
 - At the folder where the pom.xml is found, at the console, please type this below at the command line and enter
     -  mvn clean compile exec:java -Ddebug=true
 
+## How To Run Using Java
+- At the folder of the built classes, where com folder is found, at the console, use the following.
+  -  java com.gic.minesweeper.frontend.MineSweeper
+
 ## Assumptions and Rules
 - The minimum size is 2, and the maximum is 9.  
   - It is not possible to have a size of 1, as the minimum number of mines is 35%.
