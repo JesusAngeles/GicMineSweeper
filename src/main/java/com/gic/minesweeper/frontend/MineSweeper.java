@@ -6,8 +6,6 @@ import com.gic.minesweeper.backend.service.MineTrackerServiceImpl;
 import com.gic.minesweeper.backend.utils.Location;
 import com.gic.minesweeper.backend.utils.MineTrackerUtil;
 
-//TIP To <b>Run</b> code, press <shortcut actionId="Run"/> or
-// click the <icon src="AllIcons.Actions.Execute"/> icon in the gutter.
 public class MineSweeper {
     private static final String quit = "q";
     private static int minimumAreaSize = 2;
